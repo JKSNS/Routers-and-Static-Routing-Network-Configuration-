@@ -1,3 +1,3 @@
-![Whole Lab](images/Routing.pdf)
+![Static Routing And Newtork Configuration](images/Routing.pdf)
 <br>
 
